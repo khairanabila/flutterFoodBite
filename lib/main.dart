@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_food/screens/main_screen.dart';
+import 'package:flutter_food/util/const.dart';
 
 void main() async {
   runApp(MyApp());
@@ -13,7 +15,11 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: true,
+      debugShowCheckedModeBanner: false,
+      title: Constants.appName,
+      theme: Constants.lightTheme,
+      darkTheme: Constants.darkTheme,
+      home: MainScreen(),
     );
   }
 }
