@@ -6,9 +6,11 @@
 ![repo size](https://img.shields.io/github/repo-size/slowy07/flutterFoodBite?style=for-the-badge)
 
 ## build apps
+
 build and deploy apps: [flutter deployment apps](https://flutter.dev/docs/deployment/android)
 
 ## screenshoot
+
 <p>
     <img src="./image1.png" height="600" width="300"/>
 </p>
