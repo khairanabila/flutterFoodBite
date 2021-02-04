@@ -1,4 +1,4 @@
-# flutter food bite
+# flutter food bite ![flutter](https://icon-icons.com/icons2/2107/PNG/32/file_type_flutter_icon_130599.png)
 
 [![license](https://img.shields.io/github/license/slowy07/flutterFoodBite?style=for-the-badge)](./LICENSE)
 ![build](https://img.shields.io/badge/Build_with-dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
